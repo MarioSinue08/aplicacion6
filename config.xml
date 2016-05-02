@@ -10,7 +10,7 @@
 	<name>Dispositivo Beepea y Vibra</name>
 	
 	<description>
-	  Aplicacion que hace que el movil beppee y vibre
+	  Aplicacion que hace que el movil bepee y vibre
 	</description>
 	
 	<preference name="phonegap-version" value="3.1.0"/>
